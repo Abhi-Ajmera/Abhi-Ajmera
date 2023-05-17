@@ -15,9 +15,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
-       <ul flex="left">
+       <ul float="left">
         <li>ReactJS</li>
-        <li>ES6+ Javscript</li>
+        <li>ES6+ Javascript</li>
         <li>PHP</li>
         <li>MySQL</li>
         <li>REST API/ RESTful API</li>
