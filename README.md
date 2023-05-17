@@ -14,8 +14,8 @@
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-       <ul float="left">
+    <p float="left">
+       <ul>
         <li>ReactJS</li>
         <li>ES6+ Javascript</li>
         <li>PHP</li>
