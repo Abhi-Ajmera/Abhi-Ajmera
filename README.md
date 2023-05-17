@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Ajmera</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **ReactJS & MERN**
 
 - 💬 Ask me about **React, Javascript, PHP**
 
