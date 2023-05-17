@@ -14,7 +14,7 @@
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
-    <p float="left">
+    <p>
        <ul>
         <li>ReactJS</li>
         <li>ES6+ Javascript</li>
@@ -23,5 +23,5 @@
         <li>REST API/ RESTful API</li>
         <li>Wordpress</li>
         <li>Netlify</li>
-</ul>
+       </ul>
     </p>
