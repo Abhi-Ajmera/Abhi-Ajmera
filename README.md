@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-ajmera-aa313b156" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/abhishek-ajmera-aa313b156" width="40" height="40"></img></svg>
+<a href="https://www.linkedin.com/in/abhishek-ajmeraa" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/abhishek-ajmera-aa313b156" width="40" height="40"></img></svg>
  </a>
  </p>
 
