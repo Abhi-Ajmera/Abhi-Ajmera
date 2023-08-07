@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS & MERN**
 
-- 💬 Ask me about **React, Javascript, PHP**
+- 💬 Ask me about **React, Javascript, Python**
 
 - 📫 How to reach me **abhishekajmera17@gmail.com**
 
@@ -18,7 +18,7 @@
        <ul>
         <li>ReactJS</li>
         <li>ES6+ Javascript</li>
-        <li>PHP</li>
+        <li>Python</li>
         <li>MySQL</li>
         <li>REST API/ RESTful API</li>
         <li>Wordpress</li>
