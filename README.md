@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next js, React Native, Express<br>💬 Ask me about React, ES6+ Javascript, Python<br>📫 How to reach me abhishekajmera17@gmail.com
+🌱 I’m currently learning Node JS & Express<br>💬 Ask me about Next.js, TS, React, JS, Python<br>📫 How to reach me abhishekajmera17@gmail.com
 
 
 ## 🌐 Socials:
