@@ -24,10 +24,10 @@ Emphasizes on Optimization, Streaming, Security.
 - 🔭 I’m currently working on Freelance Project   
   
 
-- 🌱 I’m currently learning Express JS  
+- 🌱 I’m currently learning UX Design course by Google  
   
 
-- ❓ Ask me about anything related to Front End  and related technologies  
+- ❓ Ask me about anything related to Front End Web Development and related technologies  
   
 
 <br/>  
