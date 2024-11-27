@@ -1,7 +1,7 @@
 # <div align="center" >Hey 👋, I'm Abhishek Ajmera !</div>
 
 <div align="center">
-<a href="https://www.abhishekajmera.site/" target="_blank">
+<a href="https://abhishekajmera.vercel.app/" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/abhishek-ajmeraa" target="_blank">
@@ -21,10 +21,10 @@ Emphasizes on Optimization, Streaming, Security.
 
   
 
-- 🔭 I’m currently working on Freelance Project   
-  
+- 🔭 I’m currently working at PhysioPlus Healthcare   
 
-- 🌱 I’m currently learning UX Design course by Google  
+
+- 🌱 Contact Me for React.js, Next.js Freelance Project  
   
 
 - ❓ Ask me about anything related to Front End Web Development and related technologies  
