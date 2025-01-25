@@ -13,7 +13,7 @@
 </div>
 
 ###  Glad to see you here! 🙏
-I’m a Software developer who can build full-stack app using Next.JS & MERN, with knowledge of figma which allows me to understand desing process and also helps me in my development process.
+I’m a Software developer who can build full-stack app using Next.JS & MERN, with knowledge of figma which allows me to understand design process and also helps me in my development process.
 
 I specialize in building robust UI that user can interact with easily  
 
