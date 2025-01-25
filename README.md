@@ -13,21 +13,17 @@
 </div>
 
 ###  Glad to see you here! 🙏
-I’m a front-end web developer who can build full-stack app using Next.JS allows me to not only develop client-facing apps and websites but also develop it's backend support with database connection.
+I’m a Software developer who can build full-stack app using Next.JS & MERN allows me to not only develop client-facing apps and websites but also develop it's backend support with database connection.
 
-I specialize in building robust client side that user can interact with easily.
+I specialize in building robust UI that user can interact with easily  
 
 Emphasizes on Optimization, Streaming, Security.  
 
-  
 
 - 🔭 I’m currently working at PhysioPlus Healthcare   
 
 
-- 🌱 Contact Me for React.js, Next.js Freelance Project  
-  
-
-- ❓ Ask me about anything related to Front End Web Development and related technologies  
+- 🌱 Connect Me for Next.js, MERN    
   
 
 <br/>  
