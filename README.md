@@ -20,10 +20,10 @@ I specialize in building robust UI that user can interact with easily
 Emphasizes on Optimization, Streaming, Security.  
 
 
-- 🔭 I’m currently working at PhysioPlus Healthcare   
+- 🔭 I’m currently working at Telepathy Infotech  
 
 
-- 🌱 Connect Me for Next.js, MERN    
+- 🌱 Connect Me for Front End Web Development   
   
 
 <br/>  
